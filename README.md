@@ -4,7 +4,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/patHaynes-401-advanced-javascript/mongo-aggregation/pull/1)
-* [travis](https://github.com/patHaynes-401-advanced-javascript/mongo-aggregation/pull/1/checks?check_run_id=252344356)
+* [travis](https://travis-ci.com/patHaynes-401-advanced-javascript/mongo-aggregation)
 
 
 ## Running the app
